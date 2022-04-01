@@ -8,7 +8,9 @@
 body{
     font-family: 'Poppins',sans-serif;
 }
-
+.container {
+    min-width: 1140px;
+}
 .navbar{
     display: flex;
     justify-content: space-between;
