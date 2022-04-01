@@ -8,6 +8,9 @@
 body{
     font-family: 'Poppins',sans-serif;
 }
+.header {
+    min-width: 1140px;
+}
 .container {
     min-width: 1140px;
 }
